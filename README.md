@@ -46,7 +46,7 @@ Install via Arduino IDE Library Manager:
 
 ---
 
-## ⚙️ Configuration
+##Configuration
 
 Edit kode berikut untuk konfigurasi wifi dan API BOT
 
