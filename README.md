@@ -17,8 +17,14 @@ Sistem monitoring ketinggian air berbasis IoT menggunakan ESP8266 dengan notifik
 
 ## System Logic
 
-Jarak > 20 cm  AMAN => Normal 
+Jarak > 20 cm  AMAN => Normal
+.
+.
+.
 Jarak 10 - 20 cm Status:WASPADA => Buzzer + Telegram Notif dikirim
+.
+.
+.
 Jarak < 10 cm Status:BANJIR => Buzzer + Telegram Notif dikirim
 
 ---
